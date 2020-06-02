@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/wangrongguo/ElectronMpvPlayer.git",
+  "repository": "https://github.com/wangrongguo/ElectronMpvPlayer",
   "keywords": [
     "Electron",
     "quick",
